@@ -32,18 +32,28 @@ This project uses a **custom license**. See [`LICENSE`](./LICENSE) for full term
 
 ---
 
+## 💸 Support
+
+If you find this code useful and want to support future Verse systems and updates, here’s how you can help:
+
+- ⭐ **Star** the repo to show appreciation
+- 🙌 **Share the repo** with other UEFN developers
+- ☕ Consider [donating](https://coff.ee/itsmarwan) if you'd like to support more free tools (optional)
+
+---
+
 ## 🙏 Credit
 
 Credit is appreciated but **not required**.  
 If you want to shout me out, just mention:  
-**Made by [ItsMarwan](https://github.com/its-marwan)**
+**Made by [ItsMarwan](https://youtube.com/@itsmarwan.)**
 
 ---
 
 ## 💬 Feedback & Questions
 
 Have suggestions, requests, or questions?  
-Open an [Issue](https://github.com/your-repo/issues) or reach out on Discord!
+Open an [Issue](https://github.com/ItsMarwan/VERSE/issues) or reach out on Discord!
 
 ---
 
